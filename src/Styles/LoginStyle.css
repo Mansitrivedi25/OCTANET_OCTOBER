@@ -1,0 +1,5 @@
+.log{
+    background-color: grey;
+    overflow: auto;
+    height: 90vh;
+}
